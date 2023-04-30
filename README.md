@@ -2,6 +2,8 @@
 
 This is a Flask-based web application that allows nonprofit organizations to register and generate shortened URLs and QR codes for their donation pages. The app also logs redirection events for future analysis.
 
+The app uses an external service called CharityAPI.org (https://www.charityapi.org/) to validate the non-profit EINs. Get your API key and plug it into the .env file.
+
 ## Table of Contents
 
 - [Installation](#installation)
