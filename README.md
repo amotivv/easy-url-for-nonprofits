@@ -1,4 +1,4 @@
-# Nonprofit QR Shortener (Work in Progress)
+# Easy URL for Non-profits (Work in Progress)
 
 This is a Flask-based web application that allows nonprofit organizations to register and generate shortened URLs and QR codes for their donation pages. The app also logs redirection events for future analysis.
 
