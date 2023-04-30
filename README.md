@@ -1,8 +1,10 @@
-# Nonprofit QR Shortener
+# Nonprofit QR Shortener (Work in Progress)
 
 This is a Flask-based web application that allows nonprofit organizations to register and generate shortened URLs and QR codes for their donation pages. The app also logs redirection events for future analysis.
 
 The app uses an external service called CharityAPI.org (https://www.charityapi.org/) to validate the non-profit EINs. Get your API key and plug it into the .env file.
+
+**Note: This repo is currently a work in progress and may contain bugs or unfinished features. Please use with caution and feel free to submit issues or pull requests.**
 
 ## Table of Contents
 
